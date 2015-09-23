@@ -1,0 +1,17 @@
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\obj\Debug\UnityVS.PathfindingTutP2.CSharp.csprojResolveAssemblyReference.cache
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\obj\Debug\Assembly-CSharp.dll
+D:\Workspace\PathfindingTutFiles\PathfindingTutP2\obj\Debug\Assembly-CSharp.pdb
